@@ -2,10 +2,11 @@
 
 **About me**
 
-- 👨‍🎓 20 years old
+- 👨‍🎓 21 years old
 - 🎓 Constantly learning new things
 - 💜 I love to write code and create new things.
 - 🎵 Love to hear music
+- 🦙 Llamas are cool
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=iotacb&show_icons=true&theme=dracula)

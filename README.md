@@ -2,7 +2,7 @@
 
 **About me**
 
-- 👨‍🎓 21 years old
+- 👨‍🎓 22 years old
 - 🎓 Constantly learning new things
 - 💜 I love to write code and create new things.
 - 🎵 Love to hear music
